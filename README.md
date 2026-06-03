@@ -153,15 +153,6 @@ Visualizaciones generadas:
 
 ---
 
-## 🔮 Mejoras Futuras
-
-- Comparar con otros algoritmos (LightGBM, XGBoost, Logistic Regression) para validar la superioridad de CatBoost.
-- Explorar feature engineering adicional (ratios entre variables, tendencias temporales).
-- Aumentar los trials de Optuna para una exploración más exhaustiva.
-- Implementar análisis SHAP para interpretabilidad a nivel de cliente individual.
-- Diseñar un sistema de alertas que identifique clientes en riesgo de churn en tiempo real.
-
----
 
 ## 👤 Autor
 
